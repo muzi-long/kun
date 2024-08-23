@@ -69,7 +69,7 @@ Ultimately, kun may support the following communication types:
 ## Installation
 
 ```bash
-$ go install github.com/RussellLuo/kun/cmd/kungen@latest
+$ go install github.com/muzi-long/kun/cmd/kungen@latest
 ```
 
 <details open>
