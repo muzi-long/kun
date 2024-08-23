@@ -4,6 +4,7 @@ go 1.18
 
 require (
 	github.com/RussellLuo/appx v0.0.0-20221010012641-012c63db58d5
+	github.com/RussellLuo/kun v0.4.5
 	github.com/RussellLuo/micron v0.0.0-20221009105224-18343cd0cfd9
 	github.com/RussellLuo/validating/v3 v3.0.0-beta.1
 	github.com/go-chi/chi v4.1.2+incompatible

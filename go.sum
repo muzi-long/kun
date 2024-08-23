@@ -4,6 +4,8 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible/go.mod h1:r7JcOSlj0wfOMncg0iLm8Leh48TZaKVeNIfJntJ2wa0=
 github.com/RussellLuo/appx v0.0.0-20221010012641-012c63db58d5 h1:Kg4Ej8pTkafsBMjbFsVMirAch5EHQBBlK1UErLpc3fc=
 github.com/RussellLuo/appx v0.0.0-20221010012641-012c63db58d5/go.mod h1:BYiSO63uqNy81Mlv9EfnJ+wNr+vkgAohKMgeDyhWu1s=
+github.com/RussellLuo/kun v0.4.5 h1:006wh9AhIqf/IDijB0TXju8FrlWI0UAaObRPvKZKXFM=
+github.com/RussellLuo/kun v0.4.5/go.mod h1:ITHYogvZMuRxT3CWEZQ7d+B6KU0wZJgVnjY74RfoUjE=
 github.com/RussellLuo/micron v0.0.0-20221009105224-18343cd0cfd9 h1:I4jfTvTGToPXHVrwu/huzyQHQ1sBxULcXSwsoHuVxnY=
 github.com/RussellLuo/micron v0.0.0-20221009105224-18343cd0cfd9/go.mod h1:dSJ4Da5HdXgw8m9O8V0T5p+HQNEblPx01mXpV8tX2NY=
 github.com/RussellLuo/validating/v3 v3.0.0-beta.1 h1:uvS1bibGqNFbL9sdT+T63A88vOq3UlVVYuqw1rZynF4=
