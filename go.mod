@@ -1,4 +1,4 @@
-module github.com/RussellLuo/kun
+module github.com/muzi-long/kun
 
 go 1.18
 
